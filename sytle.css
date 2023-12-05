@@ -1,0 +1,7 @@
+.tab.current-tab{
+    background-color: rgba(152, 150, 150, 0.459);
+}
+
+.form-container.active{
+    scale: 1;
+}
